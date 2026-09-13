@@ -8,11 +8,16 @@ web platforms.
 
 ### Selected work
 
+**ISS Tracker** — Live position of the International Space Station over a 3D
+globe. A serverless backend validates the orbital elements and the orbit is
+propagated with SGP4 in the browser. *TypeScript, React, Three.js, WebGL.*
+[Live demo](https://iss-tracker-siesquen.vercel.app) · [Code](https://github.com/JpSiesquen/iss-tracker-siesquen)
+
 **AI assistant for scam detection** — Helps older adults recognize
 digital scams in messages they receive. *TypeScript.*
 
-**Mining operations console** — Personal project. Hopper load monitoring
-for mining sites using computer vision. *TypeScript.*
+**Mining operations console** — Hopper load monitoring for mining sites using
+computer vision. *TypeScript.*
 
 **Client web work** — Landing pages and business sites delivered for
 restaurants, retail, health and professional services. *HTML, CSS,
