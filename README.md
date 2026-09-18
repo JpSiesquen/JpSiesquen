@@ -1,6 +1,6 @@
 ## Jonathan Siesquen Zuloaga
 
-Full-stack TypeScript developer (React, Node.js, PostgreSQL, Flutter). I build
+Full-stack TypeScript developer (React, Node.js, PostgreSQL, Java). I build
 production web apps, live data visualizations and mobile products end to end,
 from UI to APIs and deployment, including LLM-powered features shipped in real
 products. Recent work spans 3D/map trackers, an AI assistant for scam detection,
