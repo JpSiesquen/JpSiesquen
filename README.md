@@ -25,7 +25,7 @@ and client-facing business sites. Based between Peru and Chile. Open to remote r
     </td>
     <td align="center" width="33%">
       <a href="https://aptia.cl">
-        <img src="https://aptia.cl/assets/images/og/og-card.png" alt="Aptia / Don Tata" width="100%" />
+        <img src="https://raw.githubusercontent.com/JpSiesquen/JpSiesquen/main/assets/aptia-hero.png" alt="Aptia / Don Tata" width="100%" />
       </a>
       <br />
       <a href="https://aptia.cl">Aptia / Don Tata</a>
