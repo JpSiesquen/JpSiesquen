@@ -15,7 +15,7 @@ globe. A serverless backend validates the orbital elements and the orbit is
 propagated with SGP4 in the browser. *TypeScript, React, Three.js, WebGL.*
 [Live demo](https://iss-tracker-siesquen.vercel.app) · [Code](https://github.com/JpSiesquen/iss-tracker-siesquen)
 
-**Don Tata: AI assistant for scam detection**: Helps older adults in Chile
+**Don Tata (AI assistant for scam detection)**: Helps older adults in Chile
 recognize digital scams in the messages they receive. Product work with Aptia
 (web + mobile). *TypeScript, Flutter, Firebase.*
 [Product site](https://aptia.cl) · Private codebase
