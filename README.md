@@ -6,6 +6,21 @@ from UI to APIs and deployment, including LLM-powered features shipped in real
 products. Recent work spans 3D/map trackers, an AI assistant for scam detection,
 and client-facing business sites. Based between Peru and Chile. Open to remote roles.
 
+
+<p align="center">
+  <a href="https://iss-tracker-siesquen.vercel.app"><img src="https://raw.githubusercontent.com/JpSiesquen/iss-tracker-siesquen/main/docs/assets/iss-tracker-mobile.webp" alt="ISS Tracker on mobile" width="260" /></a>
+  <a href="https://earthquake-tracker-siesquen.vercel.app"><img src="https://raw.githubusercontent.com/JpSiesquen/earthquake-tracker-siesquen/main/docs/assets/hero-desktop.png" alt="Earthquake Tracker map" width="260" /></a>
+  <a href="https://aptia.cl"><img src="https://aptia.cl/assets/images/og/og-card.png" alt="Aptia / Don Tata" width="260" /></a>
+</p>
+
+<p align="center">
+  <a href="https://iss-tracker-siesquen.vercel.app">ISS Tracker</a>
+  ·
+  <a href="https://earthquake-tracker-siesquen.vercel.app">Earthquake Tracker</a>
+  ·
+  <a href="https://aptia.cl">Aptia / Don Tata</a>
+</p>
+
 ---
 
 ### Selected work
