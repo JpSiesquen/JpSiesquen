@@ -13,15 +13,20 @@ globe. A serverless backend validates the orbital elements and the orbit is
 propagated with SGP4 in the browser. *TypeScript, React, Three.js, WebGL.*
 [Live demo](https://iss-tracker-siesquen.vercel.app) · [Code](https://github.com/JpSiesquen/iss-tracker-siesquen)
 
-**AI assistant for scam detection** — Helps older adults recognize
-digital scams in messages they receive. *TypeScript.*
+**Don Tata — AI assistant for scam detection** — Helps older adults in Chile
+recognize digital scams in the messages they receive. Product work with Aptia
+(web + mobile). *TypeScript, Flutter, Firebase.*
+[Product site](https://aptia.cl) · Private codebase
 
 **Mining operations console** — Hopper load monitoring for mining sites using
-computer vision. *TypeScript.*
+computer vision. Internal ops UI with restricted access to real site imagery.
+*TypeScript.*
+Private · Demo on request
 
 **Client web work** — Landing pages and business sites delivered for
 restaurants, retail, health and professional services. *HTML, CSS,
 JavaScript, Astro.*
+[Gym](https://landing-gimnasio-kir.vercel.app) · [Pizzeria](https://landing-pizzas-artesanales.vercel.app) · [Food truck](https://landing-food-truck.vercel.app) · [Restaurant](https://morenaza-la-unica.vercel.app)
 
 ---
 
