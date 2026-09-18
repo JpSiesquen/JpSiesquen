@@ -1,35 +1,35 @@
 ## Jonathan Siesquen Zuloaga
 
-Full-stack TypeScript developer — React, Node.js, PostgreSQL, Flutter. I build
+Full-stack TypeScript developer (React, Node.js, PostgreSQL, Flutter). I build
 production web apps, live data visualizations and mobile products end to end,
-from UI to APIs and deployment — including LLM-powered features shipped in real
+from UI to APIs and deployment, including LLM-powered features shipped in real
 products. Recent work spans 3D/map trackers, an AI assistant for scam detection,
-and client-facing business sites. Based between Peru and Chile · Open to remote roles.
+and client-facing business sites. Based between Peru and Chile. Open to remote roles.
 
 ---
 
 ### Selected work
 
-**ISS Tracker** — Live position of the International Space Station over a 3D
+**ISS Tracker**: Live position of the International Space Station over a 3D
 globe. A serverless backend validates the orbital elements and the orbit is
 propagated with SGP4 in the browser. *TypeScript, React, Three.js, WebGL.*
 [Live demo](https://iss-tracker-siesquen.vercel.app) · [Code](https://github.com/JpSiesquen/iss-tracker-siesquen)
 
-**Don Tata — AI assistant for scam detection** — Helps older adults in Chile
+**Don Tata: AI assistant for scam detection**: Helps older adults in Chile
 recognize digital scams in the messages they receive. Product work with Aptia
 (web + mobile). *TypeScript, Flutter, Firebase.*
 [Product site](https://aptia.cl) · Private codebase
 
-**Earthquake Tracker** — Every earthquake on Earth, live on a map: sized by
+**Earthquake Tracker**: Every earthquake on Earth, live on a map: sized by
 magnitude, colored by depth, with the numbers behind them. *TypeScript, React.*
 [Live demo](https://earthquake-tracker-siesquen.vercel.app) · [Code](https://github.com/JpSiesquen/earthquake-tracker-siesquen)
 
-**Mining operations console** — Hopper load monitoring for mining sites using
+**Mining operations console**: Hopper load monitoring for mining sites using
 computer vision. Internal ops UI with restricted access to real site imagery.
 *TypeScript.*
 Private · Demo on request
 
-**Client web work** — Landing pages and business sites delivered for
+**Client web work**: Landing pages and business sites delivered for
 restaurants, retail, health and professional services. *HTML, CSS,
 JavaScript, Astro.*
 [Gym](https://landing-gimnasio-kir.vercel.app) · [Pizzeria](https://landing-pizzas-artesanales.vercel.app) · [Food truck](https://landing-food-truck.vercel.app) · [Restaurant](https://morenaza-la-unica.vercel.app)
