@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/cabecera-orbital.gif" width="900" alt="Full-stack Developer — React, TypeScript and Node.js. Animated Earth and ISS orbit." />
+</p>
+
 ## Jonathan Siesquen Zuloaga
 
 Full-stack TypeScript developer (React, Node.js, PostgreSQL, Java). I build
