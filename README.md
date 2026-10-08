@@ -8,7 +8,7 @@ Full-stack developer focused on React, TypeScript and Node.js. I build web appli
 
 Currently learning software architecture, infrastructure and DevOps through hands-on projects.
 
-Seeking a Full-stack or React/Node.js developer role.
+Open to Full-stack and React/Node.js roles in Peru, Chile, and remote opportunities with international teams.
 
 [LinkedIn](https://www.linkedin.com/in/jpsiesquen/) · [Explore my projects](#selected-work)
 
@@ -90,4 +90,3 @@ Spanish (native) · English (intermediate)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpsiesquen@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpsiesquen/)
 
-Open to remote work.
