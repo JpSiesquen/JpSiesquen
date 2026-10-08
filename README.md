@@ -46,9 +46,8 @@ Seeking a Full-stack or React/Node.js developer role.
 *TypeScript, React, Three.js, WebGL.*
 [Live demo](https://iss-tracker-siesquen.vercel.app) · [Code](https://github.com/JpSiesquen/iss-tracker-siesquen) · [Performance notes](https://github.com/JpSiesquen/iss-tracker-siesquen/blob/main/docs/rendimiento-movil.md)
 
-**Don Tata (AI assistant for scam detection)**: Helps older adults in Chile
-recognize digital scams in the messages they receive. Product work with Aptia
-(web + mobile). *TypeScript, Flutter, Firebase.*
+**Don Tata**: AI-assisted WhatsApp service helping older adults recognize potential scams. As co-founder of Aptia, I develop and maintain the bot and product website, including testing and reliability improvements.
+*JavaScript, Node.js, Firebase.*
 [Product site](https://aptia.cl) · Private codebase
 
 **Earthquake Tracker**: Interactive earthquake visualization combining a global map with local 3D views of seismic depth. A serverless BFF validates and caches USGS data, while the interface provides filters and handles missing data and service errors.
