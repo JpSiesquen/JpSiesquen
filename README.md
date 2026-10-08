@@ -4,12 +4,13 @@
 
 ## Jonathan Siesquen Zuloaga
 
-Full-stack TypeScript developer (React, Node.js, PostgreSQL, Java). I build
-production web apps, live data visualizations and mobile products end to end,
-from UI to APIs and deployment, including LLM-powered features shipped in real
-products. Recent work spans 3D/map trackers, an AI assistant for scam detection,
-and client-facing business sites. Based between Peru and Chile. Open to remote roles.
+Full-stack developer focused on React, TypeScript and Node.js. I build web applications with real-time data, interactive maps and 3D visualization, from interface to backend and deployment.
 
+Currently learning software architecture, infrastructure and DevOps through hands-on projects.
+
+Seeking a Full-stack or React/Node.js developer role.
+
+[LinkedIn](https://www.linkedin.com/in/jpsiesquen/) · [Explore my projects](#selected-work)
 
 <table>
   <tr>
