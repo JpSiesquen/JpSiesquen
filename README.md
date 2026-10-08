@@ -51,8 +51,8 @@ recognize digital scams in the messages they receive. Product work with Aptia
 (web + mobile). *TypeScript, Flutter, Firebase.*
 [Product site](https://aptia.cl) · Private codebase
 
-**Earthquake Tracker**: Every earthquake on Earth, live on a map: sized by
-magnitude, colored by depth, with the numbers behind them. *TypeScript, React.*
+**Earthquake Tracker**: Interactive earthquake visualization combining a global map with local 3D views of seismic depth. A serverless BFF validates and caches USGS data, while the interface provides filters and handles missing data and service errors.
+*TypeScript, React, MapLibre, Three.js.*
 [Live demo](https://earthquake-tracker-siesquen.vercel.app) · [Code](https://github.com/JpSiesquen/earthquake-tracker-siesquen)
 
 **Mining operations console**: Hopper load monitoring for mining sites using
