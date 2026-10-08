@@ -42,10 +42,9 @@ Seeking a Full-stack or React/Node.js developer role.
 
 ### Selected work
 
-**ISS Tracker**: Live position of the International Space Station over a 3D
-globe. A serverless backend validates the orbital elements and the orbit is
-propagated with SGP4 in the browser. *TypeScript, React, Three.js, WebGL.*
-[Live demo](https://iss-tracker-siesquen.vercel.app) · [Code](https://github.com/JpSiesquen/iss-tracker-siesquen)
+**ISS Tracker**: Real-time tracking of the International Space Station on a 3D globe. Orbital propagation with SGP4 keeps the station, Earth rotation and solar lighting synchronized. A serverless BFF validates and caches orbital data, with fallback during upstream outages. Mobile optimizations reduced texture transfer by 86% in documented local measurements.
+*TypeScript, React, Three.js, WebGL.*
+[Live demo](https://iss-tracker-siesquen.vercel.app) · [Code](https://github.com/JpSiesquen/iss-tracker-siesquen) · [Performance notes](https://github.com/JpSiesquen/iss-tracker-siesquen/blob/main/docs/rendimiento-movil.md)
 
 **Don Tata (AI assistant for scam detection)**: Helps older adults in Chile
 recognize digital scams in the messages they receive. Product work with Aptia
