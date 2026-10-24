@@ -58,10 +58,9 @@ Open to Full-stack and React/Node.js roles in Peru, Chile, and remote opportunit
 *Python, HTTP, unittest, GitHub Actions.*
 [Code](https://github.com/JpSiesquen/site-health-monitor-python) · [Sample report](https://github.com/JpSiesquen/site-health-monitor-python/blob/main/docs/examples/report.html)
 
-**Mining operations console**: Hopper load monitoring for mining sites using
-computer vision. Internal ops UI with restricted access to real site imagery.
-*TypeScript.*
-Private · Demo on request
+**Mining Operations Console**: React and TypeScript demo for reviewing haul-truck loading events, with prioritized alerts, visual evidence, operator workflows and PDF reports. A companion Node.js backend separates API Core and BFF services, with validated event contracts and HTTP integration tests. The console currently runs on simulated data.
+*React, TypeScript, Node.js, Express.*
+[Backend code](https://github.com/JpSiesquen/distributed-mining-monitoring-demo) · Private frontend · Demo on request
 
 **Client web work**: Landing pages and business sites delivered for
 restaurants, retail, health and professional services. *HTML, CSS,
