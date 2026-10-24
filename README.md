@@ -54,6 +54,10 @@ Open to Full-stack and React/Node.js roles in Peru, Chile, and remote opportunit
 *TypeScript, React, MapLibre, Three.js.*
 [Live demo](https://earthquake-tracker-siesquen.vercel.app) · [Code](https://github.com/JpSiesquen/earthquake-tracker-siesquen)
 
+**Site Health Monitor**: Automated website monitoring in Python that detects failures an HTTP 200 alone can miss. Validates availability, redirect destinations and expected content, producing timestamped CSV and HTML reports with failure diagnostics. Built with the standard library, exit codes for pipeline integration, and integration tests running in GitHub Actions.
+*Python, HTTP, unittest, GitHub Actions.*
+[Code](https://github.com/JpSiesquen/site-health-monitor-python) · [Sample report](https://github.com/JpSiesquen/site-health-monitor-python/blob/main/docs/examples/report.html)
+
 **Mining operations console**: Hopper load monitoring for mining sites using
 computer vision. Internal ops UI with restricted access to real site imagery.
 *TypeScript.*
