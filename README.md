@@ -69,6 +69,29 @@ JavaScript, Astro.*
 
 ---
 
+## Santander X Chile Award 2026
+
+<table width="100%">
+  <tr>
+    <td align="center">
+      <a href="https://www.santanderx.com/es/sites/chile-award-2026.html">
+        <img src="assets/santander-logo.jpg" width="100%" alt="Banco Santander" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/santander-top5-chile-2026.svg" width="368" alt="Top 5 Chile · University · 2026" />
+      <p><strong>Don Tata — selected among Chile’s top five projects in the University category.</strong></p>
+      <p>As co-founder of Aptia, I develop and maintain the AI-powered WhatsApp assistant, including its Claude API integration, tests and reliability improvements.</p>
+      <p><em>Final ranking to be announced on November 10, 2026.</em></p>
+      <a href="https://www.santanderx.com/es/sites/chile-award-2026.html">Competition</a> · <a href="https://aptia.cl/">Don Tata / Aptia</a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### Tools I work with
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
