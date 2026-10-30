@@ -85,7 +85,7 @@ JavaScript, Astro.*
       <p><strong>3rd place — Citizen Cybersecurity.</strong></p>
       <p>As part of team Random Forest, I helped build Alerta Mayor, a conversational AI agent designed to help older adults and vulnerable people recognize financial scams and find safe support channels.</p>
       <p>We competed at Claude Impact Lab Chile in Santiago on May 6–7, 2026, during Chile Fintech Forum — the first Claude Impact Lab focused on financial inclusion.</p>
-      <a href="https://fintech.benditaia.cl/es">Event</a> · <a href="https://es.linkedin.com/posts/valentinaariztia_aibuilders-claude-anthropic-activity-7458577919544721408-qS1G">Team recap</a>
+      <a href="https://fintech.benditaia.cl/es">Event</a>
     </td>
   </tr>
 </table>
