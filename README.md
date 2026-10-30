@@ -69,6 +69,29 @@ JavaScript, Astro.*
 
 ---
 
+## Claude Impact Lab Chile 2026
+
+<table width="100%">
+  <tr>
+    <td align="center">
+      <a href="https://fintech.benditaia.cl/es">
+        <img src="assets/claude-impact-lab-chile-2026.png" width="100%" alt="Claude Impact Lab Chile 2026 — Random Forest — 3rd place in Citizen Cybersecurity" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/claude-impact-lab-third-place.svg" width="368" alt="3rd place · Citizen Cybersecurity · Claude Impact Lab Chile 2026" />
+      <p><strong>3rd place — Citizen Cybersecurity.</strong></p>
+      <p>As part of team Random Forest, I helped build Alerta Mayor, a conversational AI agent designed to help older adults and vulnerable people recognize financial scams and find safe support channels.</p>
+      <p>We competed at Claude Impact Lab Chile in Santiago on May 6–7, 2026, during Chile Fintech Forum — the first Claude Impact Lab focused on financial inclusion.</p>
+      <a href="https://fintech.benditaia.cl/es">Event</a> · <a href="https://es.linkedin.com/posts/valentinaariztia_aibuilders-claude-anthropic-activity-7458577919544721408-qS1G">Team recap</a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Santander X Chile Award 2026
 
 <table width="100%">
