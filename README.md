@@ -98,7 +98,7 @@ JavaScript, Astro.*
   <tr>
     <td align="center">
       <a href="https://www.santanderx.com/es/sites/chile-award-2026.html">
-        <img src="assets/santander-logo.jpg" width="100%" alt="Banco Santander" />
+        <img src="assets/santander-second-place.png" width="100%" alt="Banco Santander — Don Tata, 2nd Place, University, Chile 2026" />
       </a>
     </td>
   </tr>
