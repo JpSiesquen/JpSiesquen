@@ -106,6 +106,7 @@ JavaScript, Astro.*
     <td>
       <img src="assets/santander-second-place-chile-2026.svg" width="368" alt="2nd place in Chile · University · 2026" />
       <p><strong>Don Tata — 2nd place in Chile, University category.</strong></p>
+      <p>The University category brought together 149 projects from 60 institutions.</p>
       <p>As co-founder of Aptia, I develop and maintain the AI-powered WhatsApp assistant, including its Claude API integration, tests and reliability improvements.</p>
       <a href="https://www.santanderx.com/es/sites/chile-award-2026.html">Competition</a> · <a href="https://aptia.cl/">Don Tata / Aptia</a>
     </td>
