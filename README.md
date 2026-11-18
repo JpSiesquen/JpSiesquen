@@ -138,6 +138,6 @@ Spanish (native) · English (intermediate)
 ### Contact
 
 [![Job Opportunities](https://img.shields.io/badge/Job%20Opportunities-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpsiesquen@gmail.com)
-[![Aptia & Don Tata](https://img.shields.io/badge/Aptia%20%26%20Don%20Tata-24292F?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:jpsiesquen@aptia.cl)
+[![Aptia & Don Tata](https://img.shields.io/badge/Aptia%20%26%20Don%20Tata-087F5B?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:jpsiesquen@aptia.cl)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpsiesquen/)
 
