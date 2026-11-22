@@ -109,7 +109,7 @@ JavaScript, Astro.*
       <p>Don Tata earned second place in the Santander X Chile Award 2026, organized by Banco Santander. The University category brought together <strong>149 projects from 60 institutions across Chile</strong>.</p>
       <p>As co-founder of Aptia, I develop and maintain Don Tata, an AI-powered WhatsApp assistant that helps older adults recognize potential scams. My work includes the Claude API integration, automated tests and reliability improvements.</p>
       <p><a href="https://www.santanderx.com/es/sites/chile-award-2026.html">Competition</a> · <a href="https://aptia.cl/">Don Tata / Aptia</a></p>
-      <p>Don Tata placed second in the University category of the <strong>Santander X Chile Award 2026</strong>, qualifying for the semifinals of the <strong>Santander X Global Award</strong> in Spain.</p>
+      <p>Don Tata placed second in the University category of the <strong>Santander X Chile Award 2026</strong>, qualifying for the semifinals of the <strong>Santander X Global Award</strong> in <strong>Spain</strong>.</p>
     </td>
   </tr>
 </table>
